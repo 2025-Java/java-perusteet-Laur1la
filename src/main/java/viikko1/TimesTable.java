@@ -15,9 +15,9 @@ public class TimesTable {
     }
 
     public static void main(String[] args) {
-        int number = 5; // You can change this to any number
-        System.out.println("Multiplication Table for " + number + ":\n");
+        int number = 5; // Voit vaihtaa tämän haluamaksesi luvuksi
         System.out.println(table(number));
     }
 }
+
 
